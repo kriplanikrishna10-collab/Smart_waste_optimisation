@@ -3,3 +3,4 @@ __pycache__/
 .pytest_cache/
 cache/
 *.py[cod]
+data/waste_collection.db
