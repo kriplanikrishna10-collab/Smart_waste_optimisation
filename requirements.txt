@@ -5,4 +5,3 @@ ortools
 networkx
 plotly
 pytest
-osmnx
